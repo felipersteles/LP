@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1558556451 source:c:\users\gebraz\desktop\passagem\main.cpp
+	<iostream>
+	"biblioteca.h"
+
+1558556471 source:c:\users\gebraz\desktop\passagem\minmax.cpp
+	<stdlib.h>
+
+1558556493 source:c:\users\gebraz\desktop\passagem\troca.cpp
+	<iostream>
+
+1558556203 c:\users\gebraz\desktop\passagem\biblioteca.h
+
+1558556451 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\passagem\main.cpp
+	<iostream>
+	"biblioteca.h"
+
+1558556203 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\passagem\biblioteca.h
+
+1558556471 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\passagem\minmax.cpp
+	<stdlib.h>
+
+1558556493 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\passagem\troca.cpp
+	<iostream>
+
+1558556451 source:d:\2019.1\lp\geraldo\passagem\main.cpp
+	<iostream>
+	"biblioteca.h"
+
+1558556203 d:\2019.1\lp\geraldo\passagem\biblioteca.h
+
+1558556471 source:d:\2019.1\lp\geraldo\passagem\minmax.cpp
+	<stdlib.h>
+
+1558556493 source:d:\2019.1\lp\geraldo\passagem\troca.cpp
+	<iostream>
+

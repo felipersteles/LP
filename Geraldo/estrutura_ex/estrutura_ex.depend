@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1558987310 source:c:\users\gebraz\desktop\estrutura_ex\main.cpp
+	<stdlib.h>
+	<iostream>
+	"aluno.h"
+
+1558987277 c:\users\gebraz\desktop\estrutura_ex\aluno.h
+
+1558987264 source:c:\users\gebraz\desktop\estrutura_ex\aluno.cpp
+	"aluno.h"
+	<string.h>
+
+1558987264 source:c:\users\felps\onedrive\documentos\faculdade\geraldo\estrutura_ex\aluno.cpp
+	"aluno.h"
+	<string.h>
+
+1558987277 c:\users\felps\onedrive\documentos\faculdade\geraldo\estrutura_ex\aluno.h
+
+1558987984 source:c:\users\felps\onedrive\documentos\faculdade\geraldo\estrutura_ex\main.cpp
+	<stdlib.h>
+	<iostream>
+	"aluno.h"
+
