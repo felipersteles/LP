@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1559691732 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\ocorrepalavra\pararod\mai.cpp
+	<iostream>
+	<string.h>
+
+1559691891 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\ocorrepalavra\pararod\matriz.cpp
+	<iostream>
+
+1567100297 source:d:\2019.1\lp\projetos-lp\concluidos\ocorrepalavra\pararod\matriz.cpp
+	<iostream>
+
+1567100096 source:d:\2019.1\lp\projetos-lp\concluidos\ocorrepalavra\pararod\mai.cpp
+	<iostream>
+	<string.h>
+	"teles.h"
+
+1559691890 d:\2019.1\lp\projetos-lp\concluidos\ocorrepalavra\pararod\teles.h
+

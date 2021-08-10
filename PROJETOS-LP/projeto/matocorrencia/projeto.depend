@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1558720183 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto0\projeto\main.cpp
+	<iostream>
+	"biblioteca.h"
+
+1558577434 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto0\projeto\bib\print.cpp
+	<iostream>
+
+1558720045 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto0\projeto\biblioteca.h
+
+1558720166 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto0\projeto\bib\magica.cpp
+	<iostream>
+
+1558720166 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto\matocorrencia\bib\magica.cpp
+	<iostream>
+
+1558577434 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto\matocorrencia\bib\print.cpp
+	<iostream>
+
+1558889246 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto\matocorrencia\main.cpp
+	<iostream>
+	"biblioteca.h"
+
+1558720045 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\projeto\matocorrencia\biblioteca.h
+

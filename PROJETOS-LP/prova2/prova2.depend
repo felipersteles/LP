@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1559755266 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\prova2\main.cpp
+	<iostream>
+	<string.h>
+	"funsoes.h"
+
+1559739267 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\prova2\funsoes.h
+
+1559739267 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\prova2\print.cpp
+	<iostream>
+
+1559755694 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\prova2\mult.cpp
+	<iostream>
+
+1559755266 source:d:\2019.1\lp\projetos-lp\concluidos\prova2\main.cpp
+	<iostream>
+	<string.h>
+	"funsoes.h"
+
+1559739267 d:\2019.1\lp\projetos-lp\concluidos\prova2\funsoes.h
+
+1559755694 source:d:\2019.1\lp\projetos-lp\concluidos\prova2\mult.cpp
+	<iostream>
+
+1559739267 source:d:\2019.1\lp\projetos-lp\concluidos\prova2\print.cpp
+	<iostream>
+

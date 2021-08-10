@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1559157164 source:c:\users\frs.teles\documents\projetos\pontos\function\funsoes.cpp
+
+1559162206 source:c:\users\frs.teles\documents\projetos\pontos\main.cpp
+	<iostream>
+	"estruturas.h"
+	"biblioteca.h"
+
+1559162121 c:\users\frs.teles\documents\projetos\pontos\estruturas.h
+
+1559162061 c:\users\frs.teles\documents\projetos\pontos\biblioteca.h
+
+1559162627 source:c:\users\frs.teles\documents\projetos\pontos\distancia.cpp
+	<iostream>
+	<cmath>
+
+1559322021 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\pontos\distancia.cpp
+	<iostream>
+	<cmath>
+
+1559328272 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\pontos\main.cpp
+	<iostream>
+	"estruturas.h"
+	"biblioteca.h"
+	<cmath>
+
+1559323441 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\pontos\estruturas.h
+
+1559322021 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\pontos\biblioteca.h
+
+1559157164 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\pontos\function\funsoes.cpp
+
+1559322021 source:d:\2019.1\lp\projetos-lp\concluidos\pontos\distancia.cpp
+	<iostream>
+	<cmath>
+
+1559328272 source:d:\2019.1\lp\projetos-lp\concluidos\pontos\main.cpp
+	<iostream>
+	"estruturas.h"
+	"biblioteca.h"
+	<cmath>
+
+1559323441 d:\2019.1\lp\projetos-lp\concluidos\pontos\estruturas.h
+
+1559322021 d:\2019.1\lp\projetos-lp\concluidos\pontos\biblioteca.h
+

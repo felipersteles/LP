@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1561477541 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\terceiranota\economiacoletiva\main.cpp
+	<iostream>
+	<fstream>
+	"doadores.h"
+	"funsoes.h"
+	<windows.h>
+
+1561431904 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\terceiranota\economiacoletiva\doadores.h
+
+1561476303 source:c:\users\felps\onedrive\documentos\faculdade\projetos-lp\terceiranota\economiacoletiva\funsoes.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"doadores.h"
+	<windows.h>
+
+1561476083 c:\users\felps\onedrive\documentos\faculdade\projetos-lp\terceiranota\economiacoletiva\funsoes.h
+
+1561476303 source:c:\users\felps\onedrive\documentos\faculdade\2019.1\lp\projetos-lp\terceiranota\economiacoletiva\funsoes.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"doadores.h"
+	<windows.h>
+
+1561431904 c:\users\felps\onedrive\documentos\faculdade\2019.1\lp\projetos-lp\terceiranota\economiacoletiva\doadores.h
+
+1561477541 source:c:\users\felps\onedrive\documentos\faculdade\2019.1\lp\projetos-lp\terceiranota\economiacoletiva\main.cpp
+	<iostream>
+	<fstream>
+	"doadores.h"
+	"funsoes.h"
+	<windows.h>
+
+1561476083 c:\users\felps\onedrive\documentos\faculdade\2019.1\lp\projetos-lp\terceiranota\economiacoletiva\funsoes.h
+
+1567101348 source:d:\2019.1\lp\projetos-lp\concluidos\terceiranota\economiacoletiva\funsoes.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"doadores.h"
+	<windows.h>
+
+1561431904 d:\2019.1\lp\projetos-lp\concluidos\terceiranota\economiacoletiva\doadores.h
+
+1565975661 source:d:\2019.1\lp\projetos-lp\concluidos\terceiranota\economiacoletiva\main.cpp
+	<iostream>
+	<fstream>
+	"doadores.h"
+	"funsoes.h"
+	<windows.h>
+
+1561476083 d:\2019.1\lp\projetos-lp\concluidos\terceiranota\economiacoletiva\funsoes.h
+
